@@ -1,0 +1,7 @@
+{
+    "name": "XDG utils",
+    "id": "xdg-utils",
+    "version": "1.0.0",
+    "description": "A XDG utils feature",
+    "options": {}
+}
